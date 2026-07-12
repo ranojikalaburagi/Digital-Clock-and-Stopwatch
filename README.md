@@ -30,3 +30,4 @@ This project demonstrates several important concepts of web development, includi
 Overall, the Digital Clock & Stopwatch project is a practical and educational application that combines functionality with modern design. It is suitable for academic submissions, web development practice, and portfolio projects. The application showcases essential front-end programming skills while providing a useful real-world utility for displaying the current time and measuring elapsed time accurately. Its simplicity, responsiveness, and attractive interface make it an excellent project for students and aspiring web developers who want to strengthen their knowledge of modern web technologies.
 
 *output*:
+<img width="956" height="440" alt="Image" src="https://github.com/user-attachments/assets/48521138-001c-44ca-bd5d-dfee7a5e1fde" />
